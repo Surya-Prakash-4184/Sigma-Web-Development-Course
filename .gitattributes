@@ -1,2 +1,2 @@
-* text=auto > .gitattributes
-echo *.html text eol=lf
+* text=auto
+*.html text=auto eol=lf
